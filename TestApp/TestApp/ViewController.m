@@ -46,4 +46,7 @@
     NSLog(@"TEST code");
 }
 
+-(void) larryTest {
+    NSLog(@"hihi2");
+}
 @end
