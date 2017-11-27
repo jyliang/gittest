@@ -30,5 +30,9 @@
     NSLog(@"Test 2");
 }
 
+- (void) dannyTest {
+    NSLog(@"TEST code");
+}
+
 
 @end
