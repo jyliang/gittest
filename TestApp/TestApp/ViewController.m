@@ -31,7 +31,7 @@
 }
 
 
-- (void) jasonTest {
+- (void) jasonTest2 {
     NSLog(@"TEST CODE");
 }
 
