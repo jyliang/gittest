@@ -25,8 +25,13 @@
   // Dispose of any resources that can be recreated.
 }
 
+- (void)jasonTest {
+  NSLog(@"TEST code");
+  NSLog(@"TEST code 2");
+}
 
-- (void) jasonTest {
+
+- (void) jasonTest2 {
     NSLog(@"TEST CODE");
 }
 
