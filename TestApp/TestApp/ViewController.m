@@ -39,6 +39,7 @@
 -(void)javiertest{
     NSLog(@"I need sleep");
     NSLog(@"Test 2");
+    NSLog(@"test")
 }
 
 - (void) dannyTest {
