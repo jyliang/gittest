@@ -25,6 +25,11 @@
   // Dispose of any resources that can be recreated.
 }
 
+
+- (void) jasonTest {
+    NSLog(@"TEST CODE");
+}
+
 -(void)javiertest{
     NSLog(@"I need sleep");
     NSLog(@"Test 2");
@@ -33,6 +38,5 @@
 - (void) dannyTest {
     NSLog(@"TEST code");
 }
-
 
 @end
