@@ -27,6 +27,7 @@
 
 - (void)jasonTest {
   NSLog(@"TEST code");
+  NSLog(@"TEST code 2");
 }
 
 
