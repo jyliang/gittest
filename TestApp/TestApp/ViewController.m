@@ -25,8 +25,9 @@
   // Dispose of any resources that can be recreated.
 }
 
--(void)javier-test{
+-(void)javiertest{
     NSLog(@"I need sleep");
+    NSLog(@"Test 2");
 }
 
 
